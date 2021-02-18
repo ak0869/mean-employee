@@ -2,7 +2,7 @@
 1)run npm install command which will install all the related documents
 2)run this command for server side
 frontend\server\src>nodemon index
-3)run this command for angular frontend
+3)run this command for angular frontend frontend\ng serve
 
 # Frontend
 
